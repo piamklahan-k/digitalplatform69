@@ -1,1 +1,1 @@
-# digitalplatform69## วิธีใช้ รัน python calc.py
+## เครื่องคิดเลขของบ๊อบ
