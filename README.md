@@ -1,1 +1,1 @@
-# digitalplatform69## วิธีใช้ รัน python calc.py
+# โปรเจกต์ทายเลข เวอร์ชันของเรา
